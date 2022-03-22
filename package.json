@@ -1,8 +1,8 @@
 {
-    "name": "vampire",
+    "name": "vampire-ebenjs",
     "displayName": "vampire",
     "description": "Vampire theme",
-    "publisher": "EbenezerNikabou",
+    "publisher": "ebenjs",
     "version": "0.0.1",
     "repository": "https://github.com/ebenjs/vampire-vscode-theme.git",
     "engines": {
