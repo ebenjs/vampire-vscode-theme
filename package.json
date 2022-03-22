@@ -1,7 +1,7 @@
 {
     "name": "vampire-ebenjs",
-    "displayName": "vampire",
-    "description": "Vampire theme",
+    "displayName": "Vampire",
+    "description": "Vampire theme is a mix of dark and red colors",
     "publisher": "ebenjs",
     "version": "0.0.1",
     "repository": "https://github.com/ebenjs/vampire-vscode-theme.git",
