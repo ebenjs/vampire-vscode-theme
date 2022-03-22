@@ -3,7 +3,7 @@
     "displayName": "Vampire",
     "description": "Vampire theme is a mix of dark and red colors",
     "publisher": "ebenjs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/ebenjs/vampire-vscode-theme.git",
     "engines": {
         "vscode": "^1.65.0"
