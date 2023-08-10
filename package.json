@@ -1,7 +1,7 @@
 {
     "name": "vampire-ebenjs",
-    "displayName": "vampire",
-    "description": "Vampire theme",
+    "displayName": "Vampire",
+    "description": "Unleash your creativity and productivity in a sublime coding environment",
     "publisher": "ebenjs",
     "version": "0.3.0",
     "repository": "https://github.com/ebenjs/vampire-vscode-theme.git",
