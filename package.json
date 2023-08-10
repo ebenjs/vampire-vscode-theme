@@ -3,7 +3,7 @@
     "displayName": "Vampire",
     "description": "Unleash your creativity and productivity in a sublime coding environment",
     "publisher": "ebenjs",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "repository": "https://github.com/ebenjs/vampire-vscode-theme.git",
     "engines": {
         "vscode": "^1.65.0"
