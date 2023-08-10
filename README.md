@@ -1,10 +1,15 @@
-# Vampire
-## vscode color theme
+# Vampire Color Theme
 
-<img src="https://i.ibb.co/R3xfFDx/Capture-d-e-cran-2022-03-21-a-16-34-03.png" alt="screenshot" />
+Step into the realm of 'Vampire' and embrace a darker, more enigmatic coding atmosphere. The extension builds upon the iconic Dracula theme, but with a palette transformation that introduces a mesmerizing spectrum of tones. From the subtlest hints of midnight purples to the profound richness of velvety blacks, 'Vampire' captures the essence of nightfall, infusing your coding environment with an air of mystery and intrigue.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshot
+
+<img src="screenshots/shoot-1.png" alt="screenshot-1" />
+
+## More that a theme
+
+The 'Vampire' theme extension is not merely a variation; it's an artistic reimagination that acknowledges the roots of Dracula while embracing a new depth of visual sophistication. Whether you're a nocturnal coder seeking an immersive ambiance or an aficionado of meticulously crafted themes, 'Vampire' is your gateway to a coding experience that's both familiar and strikingly novel.
+
+Built with love by ebenjs.
 
 **Enjoy!**
