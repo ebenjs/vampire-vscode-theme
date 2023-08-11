@@ -2,7 +2,7 @@
 
 Step into the realm of 'Vampire' and embrace a darker, more enigmatic coding atmosphere. The extension builds upon the iconic Dracula theme, but with a palette transformation that introduces a mesmerizing spectrum of tones. From the subtlest hints of midnight purples to the profound richness of velvety blacks, 'Vampire' captures the essence of nightfall, infusing your coding environment with an air of mystery and intrigue.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ebenjs)
+<a href="https://www.buymeacoffee.com/ebenjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Screenshot
 
