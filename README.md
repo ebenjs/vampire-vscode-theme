@@ -1,6 +1,8 @@
-# Vampire Color Theme
+# Vampire Color Theme 
 
 Step into the realm of 'Vampire' and embrace a darker, more enigmatic coding atmosphere. The extension builds upon the iconic Dracula theme, but with a palette transformation that introduces a mesmerizing spectrum of tones. From the subtlest hints of midnight purples to the profound richness of velvety blacks, 'Vampire' captures the essence of nightfall, infusing your coding environment with an air of mystery and intrigue.
+
+<a href="https://www.buymeacoffee.com/ebenjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Screenshot
 
